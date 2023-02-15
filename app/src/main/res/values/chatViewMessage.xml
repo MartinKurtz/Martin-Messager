@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chatViewMessageBorderLeftRight">8dp</dimen>
+    <dimen name="chatMessageCornerRadius">8dp</dimen>
+    <dimen name="chatViewMessageBorderUpDown">8dp</dimen>
+
+    <integer name="chatViewMaxMessageLength">50</integer>
+</resources>
